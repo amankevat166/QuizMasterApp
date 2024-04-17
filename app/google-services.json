@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917153942808",
+    "project_id": "quiz-master-1400b",
+    "storage_bucket": "quiz-master-1400b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917153942808:android:2781c0fd062faabcf2e26d",
+        "android_client_info": {
+          "package_name": "com.example.quiz_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917153942808-9g2g9fqv6uji175nvnmh3eksccfqesnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xKv1pVgNUUtG33OTXIbsHlcfzDWgJjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917153942808-9g2g9fqv6uji175nvnmh3eksccfqesnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
